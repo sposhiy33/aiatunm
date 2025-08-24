@@ -9,9 +9,9 @@ title = "AI@UNM"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "AI@UNM.svg"
-  # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  # logo = "alternatelogo.svg"
+  # secondaryLogo = "AILogo.png"
+  # description = "My awesome website"
   copyright = "&copy; 2025 AI@UNM"
 
 # [params.author]

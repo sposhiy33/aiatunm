@@ -1,0 +1,46 @@
+/* Ensure content is left-aligned */
+.article-content,
+.content,
+main {
+  text-align: left !important;
+}
+
+/* Ensure lists are left-aligned */
+ol, ul {
+  text-align: left !important;
+  margin-left: 0;
+  padding-left: 2em;
+}
+
+li {
+  text-align: left !important;
+}
+
+/* Specific list marker positioning */
+ol {
+  list-style-position: outside !important;
+  margin-left: 0 !important;
+  padding-left: 2.5em !important;
+}
+
+ul {
+  list-style-position: outside !important;
+  margin-left: 0 !important;
+  padding-left: 2.5em !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center !important;
+}
+
+/* Ensure list items don't have extra margins */
+li {
+  text-align: left !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Override any theme centering */
+.text-center {
+  text-align: center !important;
+}

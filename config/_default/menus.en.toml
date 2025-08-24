@@ -15,6 +15,11 @@
   pageRef = "about"
   weight = 10
 
+[[main]]
+  name = "Resources"
+  pageref = "resources"
+  weight = 10
+
 # [[main]]
 #   name = "Parent"
 #   weight = 20

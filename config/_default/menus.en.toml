@@ -20,6 +20,17 @@
   pageref = "resources"
   weight = 10
 
+[[main]]
+  name = "Join Us"
+  url = "https://forms.cloud.microsoft/r/6sqLWaXMAT"
+  weight = 20
+
+[[main]]
+  pre = "github"
+  url = "https://github.com/sposhiy33/aiatunm"
+  weight=20
+ 
+
 # [[main]]
 #   name = "Parent"
 #   weight = 20

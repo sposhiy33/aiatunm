@@ -5,13 +5,13 @@ description: "Your AI community at the University of New Mexico"
 
 ### Welcome to AI@UNM 🧠 
 
-AI@UNM is a community of students seeking to deepen our understanding of the technical principles of AI and examine how AI should be fairly implemented in our society.
+At AI@UNM, we are aiming to create a community that seeks to understand the technical principles of AI and examine how AI should be fairly implemented in our society. We aim to build a space where students, faculty, and AI enthuisats can work together to solve the problems of tomorrow using computational tools while also being responsible and cognizant citizens.
 
 ## What We Do 👥
 
 ### Technical Track 🔩
 
-**Technical Primers**
+**Technical Primers** 
 Primers for people new to the world of AI. We will go over the mathematical underpinnings and learn how AI systems are built and scaled. 
 
 **Journal Club**

@@ -35,8 +35,12 @@ Papers, books, articles on AI ethics
 **Projects**
 Write about AI use cases in your area of concern
 
+## Events
+
+<iframe src="https://calendar.google.com/calendar/embed?src=9a86e047a18759961044daec2cf5f60bfe74a915c0aecf40cf1046c66ea3e53a%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Get Involved
 
 Join our community of AI enthusiasts, researchers, and students!
 
-[Join Us](https://forms.cloud.microsoft/r/6sqLWaXMAT)
+[Join Us]({{< relref "join/_index.md" >}})

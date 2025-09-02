@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Join Us"
-  url = "https://forms.cloud.microsoft/r/6sqLWaXMAT"
+  pageref = "join"
   weight = 20
 
 [[main]]

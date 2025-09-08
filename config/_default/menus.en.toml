@@ -15,15 +15,15 @@
 #   pageRef = "about"
 #   weight = 10
 
-# [[main]]
-#   name = "Resources"
-#   pageref = "resources"
-#   weight = 10
+[[main]]
+  name = "Resources"
+  pageref = "resources"
+  weight = 10
 
 [[main]]
   name = "Join Us"
   pageref = "join"
-  weight = 20
+  weight = 20  
 
 [[main]]
   pre = "github"

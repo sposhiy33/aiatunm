@@ -10,25 +10,30 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-# [[main]]
-#   name = "People"
-#   pageRef = "about"
-#   weight = 10
-
 [[main]]
-  name = "Resources"
-  pageref = "resources"
+  name = "About"
+  pageRef = "about"
   weight = 10
 
 [[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 20
+
+[[main]]
   name = "Join Us"
-  pageref = "join"
-  weight = 20  
+  pageRef = "join"
+  weight = 30
 
 [[main]]
   pre = "github"
   url = "https://github.com/sposhiy33/aiatunm"
-  weight=20
+  weight = 40
+
+[[main]]
+  name = "Substack"
+  url = "https://aiatunm.substack.com"
+  weight = 50
  
 
 # [[main]]

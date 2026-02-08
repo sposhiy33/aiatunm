@@ -1,46 +1,45 @@
 ---
-title: "Welcome to AI@UNM"
-description: "Your AI community at the University of New Mexico"
+title: "AI@UNM"
+description: "Safety. Innovation. Application."
 ---
 
-### Welcome to AI@UNM 🧠 
+## Welcome to AI@UNM
 
-At AI@UNM, we are aiming to create a community that seeks to understand the technical principles of AI and examine how AI should be fairly implemented in our society. We aim to build a space where students, faculty, and AI enthuisats can work together to solve the problems of tomorrow using computational tools while also being responsible and cognizant citizens.
+AI@UNM is a collaborative student organization at the University of New Mexico bringing together **students, researchers, builders,** and the broader **AI community**. We focus on the technological advancements and the social impact of developing powerful AI.
 
-## What We Do 👥
+**Our mission:** Learn how to use AI to promote your own work, embrace its potential, use it responsibly, and understand its limitations.
 
-### Technical Track 🔩
+---
 
-**Technical Primers** 
-Primers for people new to the world of AI. We will go over the mathematical underpinnings and learn how AI systems are built and scaled. 
+## What We Do
 
-**Journal Club**
-Keep up with current research with other motivated students
+We operate across three tracks so you can engage with AI in the way that fits you best:
 
-**Workshops and Projects**
-Participate in workshops to dive deeper in specialized topics, such as: 
+### Projects Track
+Build real products with other students. Ship projects you can add to your portfolio, meet potential co-founders, and gain hands-on experience with AI tools and systems.
 
-1. Mechanisitic Interpretability
-2. Applications in Science, Business, etc.
+### Technical and Policy Upskilling Track
+Level up your skills through workshops, technical primers, and deep dives into how AI systems are built, scaled, and governed.
 
-### Social Impact Track 📜
+### AI Policy Track
+Discuss legislation and policy papers in our journal club. Produce blog posts, research papers, and policy proposals on the issues that matter.
 
-**Reading and discussion groups**
-Papers, books, articles on AI ethics
+[Learn more about our tracks]({{< relref "about" >}})
 
-**Debates and case studies**
-1. How should universities handle AI in education? 
-2. Should governments pause frontier AI development until safety measures catch up?
+---
 
-**Projects**
-Write about AI use cases in your area of concern
+## Meetings
 
-## Events
+**Weekly on Wednesdays, 5:00 PM - 7:00 PM**
+
+We use [Luma](https://lu.ma) to communicate meeting agendas and send updates.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=9a86e047a18759961044daec2cf5f60bfe74a915c0aecf40cf1046c66ea3e53a%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+---
+
 ## Get Involved
 
-Join our community of AI enthusiasts, researchers, and students!
+Join our community of students, researchers, and builders shaping the future of AI.
 
-[Join Us]({{< relref "join/_index.md" >}})
+[Join Us]({{< relref "join" >}}) | [Subscribe on Substack](https://aiatunm.substack.com)

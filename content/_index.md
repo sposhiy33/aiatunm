@@ -34,7 +34,16 @@ Discuss legislation and policy papers in our journal club. Produce blog posts, r
 
 We use [Luma](https://lu.ma) to communicate meeting agendas and send updates.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=9a86e047a18759961044daec2cf5f60bfe74a915c0aecf40cf1046c66ea3e53a%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe
+  src="https://luma.com/embed/calendar/cal-tbAUDm0JnIVciWC/events?lt=dark"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 ---
 

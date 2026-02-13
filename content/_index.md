@@ -3,43 +3,68 @@ title: "AI@UNM"
 description: "Safety. Innovation. Application."
 ---
 
-## Welcome to AI@UNM
-
-AI@UNM is a collaborative student organization at the University of New Mexico bringing together **students, researchers, builders,** and the broader **AI community**. We focus on the technological advancements and the social impact of developing powerful AI.
-
-**Our mission:** Learn how to use AI to promote your own work, embrace its potential, use it responsibly, and understand its limitations.
+Building safe AI is a collaborative mission: it requires **policymakers** to set the guardrails, **researchers** to design transparent and interpretable models, and **builders** to launch applications that can positively impact the people they serve.
 
 ---
 
-## What We Do
+## Our Mission
 
-We operate across three tracks so you can engage with AI in the way that fits you best:
+1. **Build a community at UNM** that enables people to participate in meaningful work
+2. **Introduce people to the world of AI** through the lenses of **government**, **business**, and **academia**
 
-### Projects Track
-Build real products with other students. Ship projects you can add to your portfolio, meet potential co-founders, and gain hands-on experience with AI tools and systems.
+---
 
-### Technical and Policy Upskilling Track
-Level up your skills through workshops, technical primers, and deep dives into how AI systems are built, scaled, and governed.
+## Three Tracks
 
-### AI Policy Track
-Discuss legislation and policy papers in our journal club. Produce blog posts, research papers, and policy proposals on the issues that matter.
+### Technical — *Shrey Poshiya*
 
-[Learn more about our tracks]({{< relref "about" >}})
+- **Understanding foundations of AI** — research skills, create novel AI frameworks
+- **Train, Test, and Deploy Models** — AI Engineer roles
+- **Hackathons, Datathons, and Competitions** — NM to nation-wide, in-person and remote
+
+### Startup — *Younes Slaoui*
+
+- **Ship AI products**, showcase in a portfolio
+- Find **co-founders and collaborators**
+- **Startups** — test your fit
+
+### Governance — *Sophia Finale*
+
+- **Policy briefs/proposals, blog posts, research** — internships, grad school, change
+- **Analyze policy and legislation** — careers in law, government, and tech policy
+- **Conferences, workshops, networks** — ABQ, NYC, Bay Area, DC
+
+---
+
+## Projects Are Our Medium of Learning
+
+- Write a **review paper** on GPU export control
+- **Apply** existing AI interpretability methods to new models and problems
+- **Create** new model architectures
+- **Ship** an AI product and pitch it to investors
+- **Policy proposal** for adoption of AI at UNM or beyond
+- **Your idea goes here**
 
 ---
 
 ## Meetings
 
-**Weekly on Wednesdays, 5:00 PM - 7:00 PM**
+**Every Wednesday at 5pm — Farris Basement**
 
-We use [Luma](https://lu.ma) to communicate meeting agendas and send updates.
+2 hours total · Last 70-80 minutes optional · Weekly Luma invites · Minimizes work outside of the club
+
+| | |
+|---|---|
+| **10-20 min** | General news and presentations |
+| **30 min** | Vertical and interest groups |
+| **70-80 min** | Project collaboration |
 
 <iframe
   src="https://luma.com/embed/calendar/cal-tbAUDm0JnIVciWC/events?lt=dark"
   width="600"
   height="450"
   frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  style="border: 1px solid #bfcbda88; border-radius: 4px; max-width: 100%;"
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
@@ -49,6 +74,6 @@ We use [Luma](https://lu.ma) to communicate meeting agendas and send updates.
 
 ## Get Involved
 
-Join our community of students, researchers, and builders shaping the future of AI.
+<p style="text-align: center;">Join our community of policymakers, researchers, and builders shaping the future of AI.</p>
 
-[Join Us]({{< relref "join" >}}) | [Subscribe on Substack](https://aiatunm.substack.com)
+<p style="text-align: center;"><a href="/join/">Join Us</a> · <a href="https://aiatunm.substack.com">Subscribe on Substack</a></p>

@@ -1,3 +1,8 @@
-## 📬 JOIN US! Sign up for our mailing list
+---
+title: "Join Us"
+description: "Sign up for our mailing list."
+---
+
+## Sign up for our mailing list
 
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=MJiqJfngK0iJfho7PIVeXDYAQ5ro7IBBs1wsgSIrL3pUNkZKTTY4UDFOVktVSjM5SUVDOTNQWUU1Ry4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

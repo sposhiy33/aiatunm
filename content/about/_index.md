@@ -1,99 +1,64 @@
 ---
 title: "About AI@UNM"
-description: "Learn about our tracks, meeting structure, and how to get involved."
+description: "Our tracks, how we work, and who we are."
 ---
 
-## About Us
+## Who We Are
 
-AI@UNM is a collaborative student organization at the University of New Mexico bringing together students, researchers, builders, and the broader AI community. We focus on the **technological advancements** and the **social impact** of developing powerful AI.
+Building safe AI is a collaborative mission: it requires **policymakers** to set the guardrails, **researchers** to design transparent and interpretable models, and **builders** to launch applications that can positively impact the people they serve.
 
-We interact and produce with **business, academia, and government** — giving members real-world experience that translates directly to careers, graduate school, and entrepreneurship.
+AI@UNM exists to:
+
+1. **Build a community at UNM** that enables people to participate in meaningful work
+2. **Introduce people to the world of AI** through the lenses of **government**, **business**, and **academia**
 
 ---
 
 ## Our Tracks
 
-We use a matrix structure: our founders serve as specialist leads across three vertical tracks, while members drive their own projects horizontally across the organization.
+We operate across three flexible tracks. Members can contribute across tracks — projects bring together people with different skills and interests.
 
-### Projects Track
+### Technical — *Shrey Poshiya*
 
-**Technical and Product-Focused**
+- **Understanding foundations of AI** — research skills, create novel AI frameworks
+- **Train, Test, and Deploy Models** — AI Engineer roles
+- **Hackathons, Datathons, and Competitions** — NM to nation-wide, in-person and remote
 
-Work on real AI projects with other students. Members brainstorm project ideas, form teams based on shared interests, and build products from start to finish.
+### Startup — *Younes Slaoui*
 
-- Ship multiple products you can add to your portfolio
-- Participate in co-working sessions
-- Meet potential co-founders for building a startup
-- Gain hands-on experience building with AI tools and systems
+- **Ship AI products**, showcase in a portfolio
+- Find **co-founders and collaborators**
+- **Startups** — test your fit
 
-### Technical and Policy Upskilling Track
+### Governance — *Sophia Finale*
 
-Level up your understanding of AI through structured learning and hands-on workshops.
+- **Policy briefs/proposals, blog posts, research** — internships, grad school, change
+- **Analyze policy and legislation** — careers in law, government, and tech policy
+- **Conferences, workshops, networks** — ABQ, NYC, Bay Area, DC
 
-- **Technical Primers** for people new to AI — covering the mathematical foundations and how AI systems are built and scaled
-- **Workshops** on specialized topics like mechanistic interpretability and AI applications in science and business
-- Build real skills that make you AI-native
+---
 
-### AI Policy Track
+## Working in Groups
 
-Engage with the governance and ethical dimensions of AI through reading, discussion, and writing.
-
-- **Journal Club** — discuss new legislation, policy papers, and research
-- **Writing** — produce blog posts, research papers, and policy proposals published on our [Substack](https://aiatunm.substack.com)
-- Gain tangible experience writing about AI topics, preparing you for careers in law, public policy, and governance
-- Access networks in AI policy in New Mexico
+Projects bring together members from across all three tracks. A single project might have someone on the technical side, someone building the product, and someone writing policy analysis — all collaborating toward a shared outcome.
 
 ---
 
 ## Meeting Structure
 
-**Weekly on Wednesdays, 5:00 PM - 7:00 PM**
+**Every Wednesday at 5pm — Farris Basement**
 
-Each meeting follows a consistent two-hour format:
+Each meeting follows a two-hour format:
 
-1. **General Session (10-20 min)** — Housekeeping, important news, or a short presentation
-2. **Vertical Group Collaboration (30 min)** — Each track meets to discuss new papers, share ideas, and present relevant work
-3. **Project Collaboration (70-80 min)** — Teams work on their projects together
+1. **General News & Presentations (10-20 min)** — Housekeeping, news, or a short presentation
+2. **Vertical/Interest Groups (30 min)** — Each track meets to discuss ideas and share relevant work
+3. **Project Collaboration (70-80 min)** — Teams work on their projects together (optional)
 
-We use [Luma](https://lu.ma) for meeting agendas and announcements.
-
----
-
-## Why Join?
-
-### For the Projects Track
-- Ship multiple products you can add to your portfolio
-- Meet potential co-founders for building a startup
-- Discover whether entrepreneurship is your path
-- Become AI-native
-
-### For the Policy Track
-- Build published writing samples — research papers, blog posts, and policy proposals for internship and grad school applications
-- Gain tangible experience writing about AI, preparing you for studies and careers in law and public policy
-- Attend conferences, workshops, and events in New York City, the Bay Area, and Washington, DC
-- Access networks in AI policy in New Mexico
-
-### For Everyone
-- Be part of a community that bridges technical skill and social responsibility
-- Pad your resume with real deliverables and leadership experience
-- Connect with business, academia, and government
-
----
-
-## Leadership
-
-AI@UNM was founded by three UNM students who share a vision for building an AI-literate community:
-
-- **Shrey** — Founder
-- **Younes** — Founder
-- **Sophia** — Founder
-
-Interested in a leadership role? We have officer and project lead positions available. Project leads have autonomy over their projects with guidance and connections from the founding team.
+Weekly **Luma** invites · Minimizes work outside of the club
 
 ---
 
 ## Stay Connected
 
-- [Join our mailing list]({{< relref "join" >}})
+- [Join our mailing list](/join/)
 - [Subscribe to our Substack](https://aiatunm.substack.com)
-- [GitHub](https://github.com/sposhiy33/aiatunm)

@@ -1,64 +1,96 @@
 ---
 title: "About AI@UNM"
-description: "Our tracks, how we work, and who we are."
+description: "Our mission, tracks, and how we work together."
 ---
 
 ## Who We Are
 
-Building safe AI is a collaborative mission: it requires **policymakers** to set the guardrails, **researchers** to design transparent and interpretable models, and **builders** to launch applications that can positively impact the people they serve.
+Building safe AI is a collaborative mission — it requires **policymakers** to set the guardrails, **researchers** to design transparent and interpretable models, and **builders** to launch applications that positively impact the people they serve.
 
-AI@UNM exists to:
+AI@UNM is a student organization at the University of New Mexico dedicated to exploring artificial intelligence through three complementary lenses: **technical development**, **entrepreneurship**, and **governance**. We believe the best way to learn about AI is by doing — through projects, collaboration, and real-world application.
+
+### Our Mission
 
 1. **Build a community at UNM** that enables people to participate in meaningful work
 2. **Introduce people to the world of AI** through the lenses of **government**, **business**, and **academia**
 
 ---
 
-## Our Tracks
+## Our Approach: Projects Are Our Medium of Learning
 
-We operate across three flexible tracks. Members can contribute across tracks — projects bring together people with different skills and interests.
+At AI@UNM, we don't just study AI — we build with it, analyze it, and shape policy around it. Members work on projects that span research, product development, and policy analysis:
+
+- Write a **review paper** on GPU export control
+- **Apply** existing AI interpretability methods to new models and problems
+- **Create** new model architectures
+- **Ship** an AI product and pitch it to investors
+- **Develop policy proposals** for adoption of AI at UNM or beyond
+- **Your idea goes here** — we support member-driven initiatives
+
+Projects bring together people from different tracks, creating interdisciplinary teams that mirror how AI work happens in the real world.
+
+---
+
+## Three Tracks
+
+We organize our work across three flexible tracks. Members are encouraged to explore across tracks — there's no requirement to stay in one lane, and projects often bring together all three perspectives.
 
 ### Technical — *Shrey Poshiya*
 
+The technical track focuses on understanding how AI systems work and building them from the ground up.
+
 - **Understanding foundations of AI** — research skills, create novel AI frameworks
-- **Train, Test, and Deploy Models** — AI Engineer roles
-- **Hackathons, Datathons, and Competitions** — NM to nation-wide, in-person and remote
+- **Train, Test, and Deploy Models** — prepare for AI Engineer roles
+- **Hackathons, Datathons, and Competitions** — from New Mexico to nationwide, in-person and remote
+
+Whether you're interested in research, engineering, or just want to understand the math behind the headlines, this track helps you build those skills.
 
 ### Startup — *Younes Slaoui*
 
-- **Ship AI products**, showcase in a portfolio
-- Find **co-founders and collaborators**
-- **Startups** — test your fit
+The startup track is for those who want to turn AI capabilities into real products and businesses.
+
+- **Ship AI products** and showcase them in your portfolio
+- Find **co-founders and collaborators** for your next venture
+- **Test startup fit** — learn whether entrepreneurship is your path
+
+From ideation to launch, this track supports members who want to build things people actually use.
 
 ### Governance — *Sophia Finale*
 
-- **Policy briefs/proposals, blog posts, research** — internships, grad school, change
-- **Analyze policy and legislation** — careers in law, government, and tech policy
-- **Conferences, workshops, networks** — ABQ, NYC, Bay Area, DC
+The governance track examines the policy, ethical, and societal dimensions of AI systems.
+
+- **Write policy briefs, proposals, blog posts, and research** — prepare for internships, grad school, and creating change
+- **Analyze policy and legislation** — explore careers in law, government, and tech policy
+- **Attend conferences, workshops, and build networks** — from Albuquerque to NYC, the Bay Area, and DC
+
+If you're interested in how AI should be regulated, deployed responsibly, or integrated into institutions, this track is for you.
 
 ---
 
-## Working in Groups
-
-Projects bring together members from across all three tracks. A single project might have someone on the technical side, someone building the product, and someone writing policy analysis — all collaborating toward a shared outcome.
-
----
-
-## Meeting Structure
+## How We Work Together
 
 **Every Wednesday at 5pm — Farris Basement**
 
-Each meeting follows a two-hour format:
+Our weekly meetings follow a structured but flexible format designed to minimize work outside the club while maximizing collaboration:
 
-1. **General News & Presentations (10-20 min)** — Housekeeping, news, or a short presentation
-2. **Vertical/Interest Groups (30 min)** — Each track meets to discuss ideas and share relevant work
-3. **Project Collaboration (70-80 min)** — Teams work on their projects together (optional)
+| | |
+|---|---|
+| **10-20 min** | General news and presentations — club updates, AI news, or member presentations |
+| **30 min** | Vertical and interest groups — tracks meet separately to discuss ideas and share work |
+| **70-80 min** | Project collaboration — teams work together (optional but encouraged) |
 
-Weekly **Luma** invites · Minimizes work outside of the club
+The first hour is core meeting time; the remaining hour-plus is optional project work. This structure lets you go deep on projects without requiring homework between meetings.
+
+Weekly **Luma invites** keep you updated on exact times, locations, and any special events.
 
 ---
 
-## Stay Connected
+## Get Involved
 
-- [Join our mailing list](/join/)
-- [Subscribe to our Substack](https://aiatunm.substack.com)
+Ready to join us? Here's how to stay connected:
+
+- **[Join our mailing list](/join/)** — get updates on meetings, events, and opportunities
+- **[Subscribe to our Substack](https://aiatunm.substack.com)** — longer-form content, project showcases, and AI analysis
+- **Show up on Wednesdays** — the best way to get involved is to come to a meeting
+
+Questions? Reach out to any of our track leads or come find us at Farris Basement on Wednesday at 5pm.

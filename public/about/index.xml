@@ -4,8 +4,10 @@
     <title>About AI@UNM on AI@UNM</title>
     <link>http://localhost:1313/about/</link>
     <description>Recent content in About AI@UNM on AI@UNM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>&amp;copy; 2026 AI@UNM</copyright>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

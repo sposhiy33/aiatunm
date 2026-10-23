@@ -79,7 +79,6 @@ The first hour is core meeting time; the remaining hour-plus is optional project
 ## Get Involved
 
 - **[Join our mailing list](/join/)** — get updates on meetings, events, and opportunities
-- **[Subscribe to our Substack](https://aiatunm.substack.com)** — project showcases and AI analysis
 - **Show up on Wednesdays** — the best way to get involved is to come to a meeting
 
 Questions? Reach out to any of our track leads or come find us at Farris Basement on Wednesday at 5pm.

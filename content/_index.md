@@ -14,9 +14,8 @@ Building safe AI is a collaborative mission — it requires **policymakers**, **
 ## Get Involved
 
 <div class="cta-buttons">
-  <a href="/about/" class="cta-button">Learn More About Us</a>
-  <a href="/join/" class="cta-button">Join Our Community</a>
-  <a href="https://aiatunm.substack.com" class="cta-button" target="_blank" rel="noopener">Read Our Substack</a>
+  <a href="/join/" class="cta-button cta-button--primary">Join the community <span class="cta-button__arrow" aria-hidden="true">→</span></a>
+  <a href="/about/" class="cta-button">More about AI@UNM <span class="cta-button__arrow" aria-hidden="true">→</span></a>
 </div>
 
 ---

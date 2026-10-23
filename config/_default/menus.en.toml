@@ -11,6 +11,6 @@
   weight = 20
 
 [[main]]
-  name = "Substack"
-  url = "https://aiatunm.substack.com"
+  name = "Links"
+  pageRef = "links"
   weight = 30

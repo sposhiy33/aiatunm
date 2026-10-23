@@ -1,0 +1,47 @@
+{{ define "main" }}
+  {{ $avatar := resources.Get "AI@UNM Logo.png" }}
+  {{ $avatar = $avatar.Resize "220x220 webp q85" }}
+
+  <section class="links-hub" aria-labelledby="links-hub-title">
+    <div class="links-hub__content">
+      <header class="links-hub__header">
+        <img class="links-hub__avatar nozoom" src="{{ $avatar.RelPermalink }}" width="110" height="110" alt="AI@UNM logo">
+        <p class="links-hub__eyebrow">All things AI@UNM</p>
+        <h1 id="links-hub-title">AI@UNM</h1>
+        <p class="links-hub__intro">Building safe AI is a collaborative mission. It requires policymakers, researchers, and builders working together. AI@UNM brings these groups together!</p>
+
+        <nav class="links-hub__socials" aria-label="AI@UNM social links">
+          {{ range .Params.links }}
+            {{ if in (slice "discord" "linkedin" "website") .id }}
+              <a href="{{ .url | safeURL }}" aria-label="{{ cond (eq .id "website") "AI@UNM website" (printf "AI@UNM on %s" (humanize .id)) }}" {{ if .external }}target="_blank" rel="noopener noreferrer"{{ end }}>
+                {{ partial "icon.html" .icon }}
+              </a>
+            {{ end }}
+          {{ end }}
+        </nav>
+      </header>
+
+      <nav class="links-hub__list" aria-label="All AI@UNM links">
+        {{ range .Params.links }}
+          <a class="links-hub__card links-hub__card--{{ .id }}" href="{{ .url | safeURL }}" {{ if .external }}target="_blank" rel="noopener noreferrer"{{ end }}>
+            <span class="links-hub__card-icon" aria-hidden="true">
+              {{ if .image }}
+                {{ $logo := resources.Get .image }}
+                <img src="{{ $logo.RelPermalink }}" width="48" height="48" alt="" loading="lazy" decoding="async">
+              {{ else }}
+                {{ partial "icon.html" .icon }}
+              {{ end }}
+            </span>
+            <span class="links-hub__card-copy">
+              <span class="links-hub__card-title">{{ .title }}</span>
+              {{ with .description }}<span class="links-hub__card-description">{{ . }}</span>{{ end }}
+            </span>
+            <span class="links-hub__card-arrow" aria-hidden="true">↗</span>
+          </a>
+        {{ end }}
+      </nav>
+
+      <p class="links-hub__signoff">Safety. Innovation. Application.</p>
+    </div>
+  </section>
+{{ end }}

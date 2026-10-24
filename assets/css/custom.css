@@ -1,3 +1,8 @@
+:root {
+  --font-sans: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  --font-mono: var(--font-sans);
+}
+
 /* List styling */
 ol, ul {
   list-style-position: outside !important;

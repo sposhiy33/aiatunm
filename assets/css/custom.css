@@ -134,7 +134,7 @@ iframe {
   display: block;
 }
 
-/* Homepage image fills the viewport without stretching. */
+/* Keep the homepage gradient covering the viewport without distortion. */
 .homepage-background {
   display: block;
   width: 100%;
